@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("this is master ver_2.0")
 	fmt.Println("this is master ver_3.0")
 	fmt.Println("this is master ver_4.0")
+	fmt.Println("this is master ver_5.0")
+
 }
