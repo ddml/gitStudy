@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("this is brunch_A ver 2.0")
 	fmt.Println("this is master ver_2.0")
 	fmt.Println("this is master ver_3.0")
+	fmt.Println("this is master ver_4.0")
 }
